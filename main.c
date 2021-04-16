@@ -6,7 +6,7 @@
 		- Muhammad Azhar Alauddin (201524013)
 	Program			: Tic Tac Toe
 	Compiler		: DevC++
-------------------------------------- */
+-------------------------------------- */
 
 #include <stdio.h>
 #include <stdlib.h>
